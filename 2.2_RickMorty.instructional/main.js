@@ -18,3 +18,5 @@
 */
 
 //NOTE: Write your code below and push back to your github branch.  SUBMIT YOUR GITHUB URL IN CANVAS
+
+fetch('https://rickandmortyapi.com/api/character')
